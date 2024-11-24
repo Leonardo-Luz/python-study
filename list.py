@@ -1,4 +1,3 @@
-
 numbers = [1 , 10 , 100 , 1000 , 10000]
 animals = ['parrot', 'chicken', 'dog', 'bettle']
 
